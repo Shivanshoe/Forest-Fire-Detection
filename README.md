@@ -6,6 +6,8 @@ The project aims to develop a deep learning-based fire detection model capable o
 
 Flame dataset: https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs#
 
+Note: Use the dataset number 7 from the link.
+
 # Approach:
 
 ![Screenshot 2024-11-14 152404](https://github.com/user-attachments/assets/095c21ba-88cb-4036-9711-0e37abacdd5f)
