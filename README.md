@@ -10,3 +10,8 @@ Flame dataset: https://ieee-dataport.org/open-access/flame-dataset-aerial-imager
 
 ![Screenshot 2024-11-14 152404](https://github.com/user-attachments/assets/095c21ba-88cb-4036-9711-0e37abacdd5f)
 
+# Run Code:
+
+1. To run the code download the main jupyter notebook.
+2. Download the dataset from the link and extract its contents where main.ipynb is located.
+3. (Additionally) take the images from the random test images folder and store where main.ipynb is located.
